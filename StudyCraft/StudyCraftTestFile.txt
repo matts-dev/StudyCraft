@@ -1,0 +1,19 @@
+Debug
+	-debug
+	-debug2
+	-debug3 -d3 -d2 -d1
+	-debug4
+TestModule1
+	Q1 - A1 - A1 - A1
+	Q2 - A2
+		Q2S1 -A2S1
+		Q2S2 - A2S2
+	Q3
+TestModule 2 - AModule 2
+	Q4 - A4
+BlankModule
+	-test Hyphen without definition
+	-Test hyphen 2
+	-Test hyphen 3
+End
+	-Meow

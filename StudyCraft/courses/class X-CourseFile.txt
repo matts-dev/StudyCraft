@@ -1,0 +1,10 @@
+course: class X
+module: testmod1
+module: test 1
+										Xclass/file1.txt
+										Xclass/file2.txt
+module: test 2
+										Xclass/file3.txt
+module: test 3
+										xclass/file4.txt
+			C:\Users\Matt\Google Drive\0 a STATS\LectureNotesAsTxt\LectureNotes Day 3 (ch 4,5,6).txt

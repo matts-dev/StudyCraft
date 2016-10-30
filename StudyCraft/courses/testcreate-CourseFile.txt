@@ -1,0 +1,3 @@
+course: testcreate
+module: test1
+		chapter1

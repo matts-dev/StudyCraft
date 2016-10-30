@@ -1,0 +1,3 @@
+course: TestCourse
+module: tesetmod
+module: testmod1

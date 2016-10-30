@@ -1,0 +1,8 @@
+course: class X
+module: 1
+	Xclass/file1.txt
+	Xclass/file2.txt
+module: 2
+	Xclass/file3.txt
+module: 3
+	xclass/file4.txt
